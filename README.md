@@ -32,11 +32,10 @@ AWS Cost Optimization: Automated Snapshot Deletion is designed to help users red
 ### Deployment
 
 1. **Create an EC2 Instance and Snapshot**
-    - Launch a new EC2 instance in the AWS Management Console.
+    - Launch a new EC2 instance with volume in the AWS Management Console.
   
       ![Screenshot 2024-06-03 155917](https://github.com/PoornaChaitanya/Cloud-Cost-Optimization-Project/assets/84367538/e0c479d8-6ca6-4100-aac9-a4e7f77b4a24)
 
-    - Create a volume and attach it to the EC2 instance.
     - Create a snapshot of the attached volume.
 
       ![Screenshot 2024-06-03 155932](https://github.com/PoornaChaitanya/Cloud-Cost-Optimization-Project/assets/84367538/3231e0b7-a0ea-4604-9bb3-57500489eeb9)
